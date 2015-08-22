@@ -23,3 +23,5 @@ In Exercise 1 you will create your first Office Add-in using Napa. More specific
 ![getSelectedDataAsync](http://i.imgur.com/zqMP6zp.png)
 14. Also notice how the add-in header (blue section) says "***Export Options***", which you set via script in step #9.
 15. Congratulations, you have written your first Office add-in!!!
+
+**[<< Back to home](https://github.com/OfficeDev/Salesforce-Addin-Workshop)**

@@ -167,3 +167,5 @@ To the **sfLoginButton** extension seen below. Also note that the **sfLoginButto
 12. After authenticating and granting the app access to Salesforce, the dialog will close and the add-in will write opportunity records from Salesforce into the Excel workbook:
 ![Opportunity Export](http://i.imgur.com/axyfSRl.png)
 13. Congratulations, you have built a fully functioning Office add-in for Excel that connects to Salesforce!!!
+
+**[<< Back to home](https://github.com/OfficeDev/Salesforce-Addin-Workshop)**

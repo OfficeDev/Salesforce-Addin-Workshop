@@ -149,3 +149,5 @@ In Exercise 2, you will modify the Office add-in to inject a table of data into 
 10. Click on the **Export to Excel** button to write the hard-coded data into the Excel workbook as a new table.
 ![setSelectedDataAsync](http://i.imgur.com/6OENiGu.png)
 11. Congratulations, you have used your Office add-in to write complex data into an Excel Workbook!!!
+
+**[<< Back to home](https://github.com/OfficeDev/Salesforce-Addin-Workshop)**
