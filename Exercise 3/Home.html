@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <title>Opportunity Quick Edit - Step 3</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js" type="text/javascript"></script>
+
+    <link href="../../Content/Office.css" rel="stylesheet" type="text/css" />
+    <script src="https://appsforoffice.microsoft.com/lib/1.1/hosted/office.js" type="text/javascript"></script>
+	
+	<script src="https://o365workshop.azurewebsites.net/scripts/sfproxy.js" type="text/javascript"></script>
+
+    <link href="../App.css" rel="stylesheet" type="text/css" />
+    <script src="../App.js" type="text/javascript"></script>
+
+    <link href="Home.css" rel="stylesheet" type="text/css" />
+    <script src="Home.js" type="text/javascript"></script>
+</head>
+<body>
+    <!-- Page content -->
+    <div id="content-header">
+        <div class="padding">
+            <h1>Welcome</h1>
+        </div>
+    </div>
+    <div id="content-main">
+        <div class="padding">
+            <p>Please select the opportunity stage(s) you want to export:</p>
+			<div>
+	            <div class="option">Prospecting</div>
+				<div class="option">Qualification</div>
+				<div class="option">Needs Analysis</div>
+				<div class="option">Value Proposition</div>
+				<div class="option">Id. Decision Makers</div>
+				<div class="option">Perception Analysis</div>
+				<div class="option">Proposal/Price Quote</div>
+				<div class="option">Negociation/Review</div>
+				<div class="option">Closed Won</div>
+				<div class="option">Closed Lost</div>
+			</div>
+			<br/>
+			<button id="btnExport">Export to Excel</button>
+        </div>
+    </div>
+</body>
+</html>

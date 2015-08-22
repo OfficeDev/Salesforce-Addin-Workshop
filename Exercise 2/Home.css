@@ -1,0 +1,18 @@
+﻿/* Page-specific styling */
+.option {
+	padding: 6px;
+	border-top: 1px dotted #CCC;
+	cursor: pointer;
+}
+
+.option:last-child {
+	border-bottom: 1px dotted #CCC;
+}
+
+.option:hover {
+	background-color: #DFEEF9;
+}
+
+.option.active {
+	background-color: #BFDDF2
+}
