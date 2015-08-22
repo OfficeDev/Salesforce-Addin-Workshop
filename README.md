@@ -2,8 +2,6 @@
 
 In this workshop, you will build a basic Office add-in, modify it to interact with an Excel workbook, and connect it to the Salesforce.com APIs. Modern Office add-ins are built using web technologies such as HTML5, JavaScript, and CSS. The exercises in this workshop will use an in-browser web editor called Napa. All you will need to complete the workshop is a modern browser and a few accounts (see ***Prerequisites*** section).
 
-![sign-in](http://i.imgur.com/K7uO0mH.png)
-
 ## Prerequisites ##
 1. You must have a Microsoft account (an email address and password that you use to sign in to all Microsoft sites and services, including Outlook.com, Xbox Live, OneDrive, and Office 365). If you don't have one, you can quickly create one at [https://signup.live.com/signup](https://signup.live.com/signup "https://signup.live.com/signup")
 2. You must have a Salesforce.com developer account to complete Exercise 3. If you don't have one, you can quickly create one at [https://developer.salesforce.com/signup](https://developer.salesforce.com/signup "https://developer.salesforce.com/signup")
@@ -16,6 +14,8 @@ In Exercise 2, you will modify the Office add-in to inject a table of data into 
 
 ## [Exercise 3: Connect to Salesforce.com APIs](https://github.com/OfficeDev/Salesforce-Addin-Workshop/tree/master/Exercise%203) ##
 In Exercise 3, you will modify the Office add-in to sign-in and query data from Salesforce.com. If you get lost or stuck in the exercise, you can find a completed solution of Exercise 3 at [http://aka.ms/X80ts0](http://aka.ms/X80ts0 "http://aka.ms/X80ts0") and a full video walk-though at [https://www.youtube.com/watch?v=_lXp3ML0W3k](https://www.youtube.com/watch?v=_lXp3ML0W3k "https://www.youtube.com/watch?v=_lXp3ML0W3k")
+
+![sign-in](http://i.imgur.com/K7uO0mH.png)
 
 ## Going Further (optional) ##
 Want to take this further? Try modifying the add-in to highlight cells as they are updated. You can do this by adding table binding and then using an event handler for **BindingDataChanged**. The [Excel API Tutorial](https://store.office.com/api-tutorial-content-WA104077907.aspx "Excel API Tutorial") shows how to accomplish both of these tasks. You can also reference the completed solution at [http://aka.ms/Gs5kib](http://aka.ms/Gs5kib "http://aka.ms/Gs5kib") and a full video walk-through at [https://www.youtube.com/watch?v=H8r4PiO_V4I](https://www.youtube.com/watch?v=H8r4PiO_V4I "https://www.youtube.com/watch?v=H8r4PiO_V4I")
