@@ -1,6 +1,6 @@
 # Building Office add-ins with HTML5, JavaScript, and Salesforce.com #
 
->**Note:**  We will be removing this sample from the site on November 30, 2016. If you’d like to keep a copy of this sample for your own reference, please download or clone the repo.
+>**Note:**  We will be removing this sample from the site on December 15, 2016. If you’d like to keep a copy of this sample for your own reference, please download or clone the repo.
 
 In this workshop, you will build a basic Office add-in, modify it to interact with an Excel workbook, and connect it to the Salesforce.com APIs. Modern Office add-ins are built using web technologies such as HTML5, JavaScript, and CSS. The exercises in this workshop will use an in-browser web editor called Napa. All you will need to complete the workshop is a modern browser and a few accounts (see ***Prerequisites*** section).
 
