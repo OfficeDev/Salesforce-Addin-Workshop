@@ -21,3 +21,6 @@ In Exercise 3, you will modify the Office add-in to sign-in and query data from 
 Want to take this further? Try modifying the add-in to highlight cells as they are updated. You can do this by adding table binding and then using an event handler for **BindingDataChanged**. The [Excel API Tutorial](https://store.office.com/api-tutorial-content-WA104077907.aspx "Excel API Tutorial") shows how to accomplish both of these tasks. You can also reference the completed solution at [http://aka.ms/Gs5kib](http://aka.ms/Gs5kib "http://aka.ms/Gs5kib") and a full video walk-through at [https://www.youtube.com/watch?v=H8r4PiO_V4I](https://www.youtube.com/watch?v=H8r4PiO_V4I "https://www.youtube.com/watch?v=H8r4PiO_V4I")
 
 ![Change formatting](http://i.imgur.com/kY4Pckg.png)
+
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
