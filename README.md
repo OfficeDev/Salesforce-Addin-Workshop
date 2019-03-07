@@ -1,3 +1,13 @@
+---
+topic: sample
+products:
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  createdDate: 8/19/2015 11:10:20 AM
+---
 # Building Office add-ins with HTML5, JavaScript, and Salesforce.com #
 
 In this workshop, you will build a basic Office add-in, modify it to interact with an Excel workbook, and connect it to the Salesforce.com APIs. Modern Office add-ins are built using web technologies such as HTML5, JavaScript, and CSS. The exercises in this workshop will use an in-browser web editor called Napa. All you will need to complete the workshop is a modern browser and a few accounts (see ***Prerequisites*** section).
