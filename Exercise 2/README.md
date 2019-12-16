@@ -21,7 +21,7 @@ In Exercise 2, you will modify the Office add-in to inject a table of data into 
 		.option.active {
 			background-color: #BFDDF2
 		}
-2. Next, turn your attention to layout. Open **Home.html** and remove everything inside the **&lt;div class="padding"&gt;** element and replace it with the following:
+2. Next, turn your attention to layout. Open **Home.html** and remove everything inside the _second_ **&lt;div class="padding"&gt;** element and replace it with the following:
 
 		<p>Please select the opportunity stage(s) you want to export:</p>
 		<div>
